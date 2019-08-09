@@ -21,6 +21,7 @@ void main(){
             }
         }
     }
+    print("Lista Ordenada decrescentemente!");
     print("Qual a posição que você deseja conferir?");
     p = readInt();
     printInt(a[p-1]);
