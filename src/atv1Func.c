@@ -1,11 +1,11 @@
-#include "/home/theking7br/Documentos/itp/inc/console.h"
-
+#include "console.h"
 
 float power(float n,int p){
-    for(int i = 1; i<p; i++){
-        n *= n;
+    int fat = 1;
+    for(int i = 1; i<=p; i++){
+        fat *= n; 
     }
-    return n;
+    return fat;
 }
 
 void main(){
