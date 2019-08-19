@@ -27,8 +27,8 @@ void main(){
         print("\n");
     }
     print("Matriz Transposta:");
-    for(i = 0;i < l;i++){
-        for(j = 0;j < c;j++){
+    for(i = 0;i < c;i++){
+        for(j = 0;j < l;j++){
             printf("%i ", n[i][j]);
         }
         print("\n");
