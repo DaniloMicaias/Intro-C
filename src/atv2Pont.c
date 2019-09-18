@@ -14,6 +14,6 @@ void main(){
 
     sum(x1, y1, x2, y2, &x, &y);
     printf("%.1f\n", x);
-    printf("%.1f", y);
-    
+    printf("%.1f", y); 
 }
+
