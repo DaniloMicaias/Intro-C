@@ -34,8 +34,6 @@ void main(){
         usuario.cartas[i].numero = rand() % 13;
         usuario.cartas[i].naipe = rand() % 3;
     }
-    
-
 
 
     while(1){
