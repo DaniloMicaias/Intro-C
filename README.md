@@ -30,6 +30,4 @@ Resumindo:
 1) Gere o programa dele através do comando `make code=<nome>`, onde `<nome>` é o nome da cópia criada sem a extensão `.c`;
 1) Execute o programa chmando-o a partir do terminal através de `./bin/<nome>`.
 
-Mais informações sobre o processo de compilação e o arquivo Makefile serão fornecidas ao longo do curso.
-
-**Obs**: Para simplificar a entrada e saída de dados a partir do terminal, foi criada uma biblioteca de rotinas (funções), nomeada de `console`. Esta biblioteca será incorporada no seu programa durante a compilação. Ao longo do curso, veremos o que a bliblioteca faz e como faz.
+Mais informações sobre o processo de compilação e o arquivo Makefile serão fornecidas ao longo do curntrada e saída de dados a partir do terminal, foi criada uma biblioteca de rotinas (funções), nomeada de `console`.
