@@ -7,7 +7,8 @@ void main(){
     c = readInt();
     int m[l][c];
     int n[c][l];
-
+ 
+   //populandoa matriz
     for(i = 0;i < l;i++){
         for(j = 0;j < c;j++){
             m[i][j] = readInt();
