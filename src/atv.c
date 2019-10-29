@@ -4,7 +4,7 @@ void main(){
     int i, j, cont = 0;
     int n = readInt();
     int a[n];
-
+    //lendo matriz
     for(i = 0; i < n; i++){
         a[i]= readInt();
     }
