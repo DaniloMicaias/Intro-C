@@ -1,4 +1,4 @@
-# Introdução a Técnicas de Programação
+# Introdução às Técnicas de Programação
 
 Esta é uma estrutura de diretórios e arquivos a ser usada como modelo inicial nas atividades da disciplina de Introdução a Técnicas de Programação (UFRN).
 
